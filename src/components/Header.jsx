@@ -12,10 +12,10 @@ function Header() {
                     <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <a className="nav-link" href="/#competences">Mes compétences</a>
+                                <a className="nav-link" href="#competences">Mes compétences</a>
                             </li>
                             <li>
-                                <a className="nav-link" href="/#projets">Mes projets</a>
+                                <a className="nav-link" href="#projets">Mes projets</a>
                             </li>
                         </ul>
                     </div>
