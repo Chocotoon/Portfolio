@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ff02f4b5.css",
-    "main.js": "/Portfolio/static/js/main.8781b6e9.js",
+    "main.js": "/Portfolio/static/js/main.41ff8453.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/code_react.jpeg": "/Portfolio/static/media/code_react.c5d5166f943e8a4a9d92.jpeg",
     "static/media/photo-portfolio.png": "/Portfolio/static/media/photo-portfolio.31e4567f4d6f437f12a4.png",
@@ -9,14 +9,17 @@
     "static/media/CV.png": "/Portfolio/static/media/CV.3e798a5757595c2c9b79.png",
     "static/media/wealth_health_logo.png": "/Portfolio/static/media/wealth_health_logo.3dbe2d1fe44e8ff53152.png",
     "static/media/argentBankLogo.png": "/Portfolio/static/media/argentBankLogo.e031a16c76ab9bbbf78a.png",
+    "static/media/learn1tHomeLogo.png": "/Portfolio/static/media/learn1tHomeLogo.241511f6daaefcda004c.png",
+    "static/media/logoPetitsPLats.png": "/Portfolio/static/media/logoPetitsPLats.61ebf5061e8d19f6aa90.png",
+    "static/media/fisheEyeLogo.png": "/Portfolio/static/media/fisheEyeLogo.951d8b0a7fbc4aad9a62.png",
     "static/media/sportsee_logo.png": "/Portfolio/static/media/sportsee_logo.8338363fb88acf8762c2.png",
     "index.html": "/Portfolio/index.html",
     "main.ff02f4b5.css.map": "/Portfolio/static/css/main.ff02f4b5.css.map",
-    "main.8781b6e9.js.map": "/Portfolio/static/js/main.8781b6e9.js.map",
+    "main.41ff8453.js.map": "/Portfolio/static/js/main.41ff8453.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.8781b6e9.js"
+    "static/js/main.41ff8453.js"
   ]
 }
