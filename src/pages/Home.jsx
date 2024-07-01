@@ -32,8 +32,22 @@ function Home() {
             <section className="mt-4 mb-5" id="projets">
                 <h2 className="mb-4 fw-bold">Mes Projets</h2>
                 <h3 className="mb-4">React</h3>
+                <div className="row mb-4">
+                    {reactProjects[0].map(project => (
+                        <div key={`${project.title}-${project.id}`} className="col-md-4 col-xxl-3">
+                            <Card
+                                cardTitle={project.title}
+                                image={project.image}
+                                cardText={project.description}
+                                link={project.url || project.screen || null}
+                                githubLink={project.gitHub}
+                                />
+                        </div>
+                    ))}
+                </div>
+                <h3 className="mb-4">Vanilla JS</h3>
                 <div className="row">
-                    {reactProjects.map(project => (
+                    {reactProjects[1].map(project => (
                         <div key={`${project.title}-${project.id}`} className="col-md-4 col-xxl-3">
                             <Card
                                 cardTitle={project.title}

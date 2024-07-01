@@ -2,9 +2,13 @@ import kasaLogo from '../assets/kasa_logo.png'
 import sportseeLogo from '../assets/sportsee_logo.png'
 import argentBankLogo from '../assets/argentBankLogo.png'
 import wealthHealthLogo from '../assets/wealth_health_logo.png'
+import fishEyeLogo from '../assets/fisheEyeLogo.png'
+import petitsPLatsLogo from '../assets/logoPetitsPLats.png'
+import billedLogo from '../assets/billedLogo.png'
+import learnLogo from '../assets/learn1tHomeLogo.png'
 
 export const reactProjects = [
-    {
+    [{
         title: "Développement d'une plateforme de location d'appartements",
         id: "1",
         image: kasaLogo,
@@ -46,7 +50,7 @@ export const reactProjects = [
                 <li>Modéliser une API</li>
             </ul>
         </div>,
-        url:"https://chocotoon.github.io/Argent-Bank-Front/",
+        url: "",
         gitHub: "https://github.com/Chocotoon/Argent-Bank-Front"
     },
 
@@ -65,5 +69,50 @@ export const reactProjects = [
         </div>,
         url: "https://chocotoon.github.io/wealth-health",
         gitHub: "https://github.com/Chocotoon/wealth-health"
-    },
+    }],
+    [
+        {
+            title: "Créer un site accessible pour une plateforme de photographes",
+            id: "5",
+            image: fishEyeLogo,
+            description: <div><h5>Compétences développées :</h5>
+                <ul>
+                    <li>Assurer l'accessibilité d'un site web</li>
+                    <li>Développer une application web modulaire avec des design patterns</li>
+                    <li>Ecrire du code JavaScript maintenable</li>
+                    <li>Gérer les évènements d'un site avec JavaScript</li>
+                </ul>
+            </div>,
+            url: "https://chocotoon.github.io/Front-End-Fisheye/",
+            gitHub: "https://github.com/Chocotoon/Front-End-Fisheye"
+        },
+        {
+            title: "Développer un algorithme de recherche en JavaScript",
+            id: "6",
+            image: petitsPLatsLogo,
+            description: <div><h5>Compétences développées :</h5>
+                <ul>
+                    <li>Analyser un problème informatique</li>
+                    <li>Développer un algorithme pour résoudre un problème</li>
+                </ul>
+            </div>,
+            url: "https://chocotoon.github.io/Les-Petits-Plats/",
+            gitHub: "https://github.com/Chocotoon/Les-Petits-Plats"
+        },
+        {
+            title: "Débugger et tester un SaaS RH",
+            id: "7",
+            image: billedLogo,
+            description: <div><h5>Compétences développées :</h5>
+                <ul>
+                    <li>Ecrire des tests d'intégration avec JavaScript</li>
+                    <li>Débugger une application web avec le Chrome Debugger</li>
+                    <li>Ecrire des tests unitaires avec JavaScript</li>
+                    <li>Rédiger un plan de test end-to-end manuel</li>
+                </ul>
+            </div>,
+            url: "",
+            gitHub: "https://github.com/Chocotoon/Billed"
+        },
+    ]
 ]

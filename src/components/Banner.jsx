@@ -1,5 +1,4 @@
 import BannerImg from "../assets/photo-portfolio.png"
-import Button from "./Button"
 import { useState } from 'react'
 import Modal from 'react-bootstrap/Modal'
 import CV from "../assets/CV.png"
