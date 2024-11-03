@@ -1,0 +1,29 @@
+@keyframes fade_in {
+    from {
+        transform: scale(0);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes fade_out {
+    from {
+        transform: scale(1);
+        opacity: 1;
+    }
+    to {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+}
+
+.fade_in {
+    animation: fade_in 300ms ease-out;
+}
+
+.fade_out {
+    animation: fade_out 300ms ease-out;
+}
