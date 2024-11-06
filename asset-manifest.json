@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.0834f0d6.css",
-    "main.js": "/Portfolio/static/js/main.d5855045.js",
+    "main.css": "/Portfolio/static/css/main.99616858.css",
+    "main.js": "/Portfolio/static/js/main.ded26492.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/code_react.jpeg": "/Portfolio/static/media/code_react.c5d5166f943e8a4a9d92.jpeg",
     "static/media/photo-portfolio.png": "/Portfolio/static/media/photo-portfolio.31e4567f4d6f437f12a4.png",
@@ -13,13 +13,14 @@
     "static/media/fisheEyeLogo.png": "/Portfolio/static/media/fisheEyeLogo.951d8b0a7fbc4aad9a62.png",
     "static/media/sportsee_logo.png": "/Portfolio/static/media/sportsee_logo.8338363fb88acf8762c2.png",
     "static/media/redux.svg": "/Portfolio/static/media/redux.a6cbe37874daf27c4d67e28610d130a5.svg",
+    "static/media/typescript.svg": "/Portfolio/static/media/typescript.97e7c482445d67b7546aa4c54ca6f409.svg",
     "index.html": "/Portfolio/index.html",
-    "main.0834f0d6.css.map": "/Portfolio/static/css/main.0834f0d6.css.map",
-    "main.d5855045.js.map": "/Portfolio/static/js/main.d5855045.js.map",
+    "main.99616858.css.map": "/Portfolio/static/css/main.99616858.css.map",
+    "main.ded26492.js.map": "/Portfolio/static/js/main.ded26492.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0834f0d6.css",
-    "static/js/main.d5855045.js"
+    "static/css/main.99616858.css",
+    "static/js/main.ded26492.js"
   ]
 }
