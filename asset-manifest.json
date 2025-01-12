@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.99616858.css",
-    "main.js": "/Portfolio/static/js/main.106e27c0.js",
+    "main.js": "/Portfolio/static/js/main.e5475508.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/code_react.jpeg": "/Portfolio/static/media/code_react.c5d5166f943e8a4a9d92.jpeg",
     "static/media/photo-portfolio.png": "/Portfolio/static/media/photo-portfolio.31e4567f4d6f437f12a4.png",
-    "static/media/CV.png": "/Portfolio/static/media/CV.fef230c6ec5f89213d00.png",
+    "static/media/CV.png": "/Portfolio/static/media/CV.8be89030c6d6bdb4da2e.png",
     "static/media/kasa_logo.png": "/Portfolio/static/media/kasa_logo.5ddb2c36da142a932cdb.png",
     "static/media/wealth_health_logo.png": "/Portfolio/static/media/wealth_health_logo.3dbe2d1fe44e8ff53152.png",
     "static/media/argentBankLogo.png": "/Portfolio/static/media/argentBankLogo.e031a16c76ab9bbbf78a.png",
@@ -16,11 +16,11 @@
     "static/media/typescript.svg": "/Portfolio/static/media/typescript.97e7c482445d67b7546aa4c54ca6f409.svg",
     "index.html": "/Portfolio/index.html",
     "main.99616858.css.map": "/Portfolio/static/css/main.99616858.css.map",
-    "main.106e27c0.js.map": "/Portfolio/static/js/main.106e27c0.js.map",
+    "main.e5475508.js.map": "/Portfolio/static/js/main.e5475508.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99616858.css",
-    "static/js/main.106e27c0.js"
+    "static/js/main.e5475508.js"
   ]
 }
